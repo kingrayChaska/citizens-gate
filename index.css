@@ -1,0 +1,202 @@
+body{
+    background-color: #141313;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.top-logo{
+height: 51px;
+width: 63px;
+left: 28px;
+top: 19px;
+border-radius: 0px;
+}
+.top{
+position: absolute;
+width: 939px;
+height: 34px;
+left: 710px;
+top: 28px;
+display: flex;
+gap: 70px;
+color: white;
+text-decoration: none;
+font-weight: 400;
+}
+a:hover{
+    color: #1363DF;
+}
+.home-link, .dashboard-link, .quick-access-link{
+    color: #DFF6FF;
+    text-decoration: none;
+    font-weight: 600;
+
+}
+
+.sign-in button{
+    position: absolute;
+    height: 29px;
+    width: 64px;
+    left: 1199px;
+    top: 28px;
+    border-radius: 4px;
+    color: #DFF6FF;
+    background-color: #0066b2;
+    font-weight: 600;
+}    
+.BigText{
+    color: #DFF6FF;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40.000px;
+    line-height: 57px;
+    position: absolute;
+    width: 807px;
+    height: 112px;
+    left: 28px;
+    top: 149px;
+}
+.SmallText{
+position: absolute;
+width: 492px;
+height: 39px;
+left: px;
+top: 191px;
+
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-style: normal;
+font-weight: 200;
+opacity: 100%;
+font-size: 15px;
+line-height: 18px;
+
+color: #DFF6FF;
+
+}
+.sign-up-button{
+    position: absolute;
+    height: 29px;
+    width: 24px;
+    left: 1199px;
+    top: 28px;
+    border-radius: 4px;
+    color: #DFF6FF;
+    background-color: #0066b2;
+    font-weight: 600;
+}
+.citizens-gate-logo{
+    position: absolute;
+    width: 227px;
+    height: 229px;
+    left: 473px;
+    top: 10px;
+
+
+} 
+.login-button{
+    position: absolute;
+    height: 29px;
+    width: 64px;
+    left: 50px;
+    top: 80px;
+    border-radius: 4px;
+    color: #DFF6FF;
+    background-color: #141313;
+    font-weight: 600;
+    display: flex;
+
+}
+.sign-up-button{
+    position: absolute;
+    height: 29px;
+    width: 71px;
+    left: -50px;
+    top: 80px;
+    border-radius: 4px;
+    text-align: center;
+    color: #DFF6FF;
+    background-color: #6CB4EE;
+    font-weight: 600;
+    display: flex;
+}
+.sign-in-buttons{
+    position: absolute;
+    height: 29px;
+    width: 64px;
+    left: 79px;
+    top: 350px;
+    border-radius: 4px;
+    color: #DFF6FF;
+    background-color: #141313;
+    font-weight: 600;
+    display: flex;
+
+}
+.Tour{
+    color: #b3b3b3;
+    top: 500px;
+    font-weight: 300;
+    font-size: 16px;
+    font-style: normal;
+    position: absolute;
+    display: flex;
+    left: 34px;
+    text-decoration: none;
+}
+.borderblog{
+    border: 2px solid #1363DF;
+    background-color: #1363DF;
+    transform: rotate(90deg);
+    width: 40px;
+    top: 510px;
+    left: 156px;
+    display: flex;
+    position: absolute;
+}
+.VAB{
+    color: #b3b3b3;
+    top: 500px;
+    font-weight: 300;
+    font-size: 16px;
+    font-style: normal;
+    position: absolute;
+    display: flex;
+    left: 200px;
+    text-decoration: none;
+}
+.disclaimer{
+    color: #DFF6FF;
+    top: 540px;
+    font-weight: 700;
+    font-size: 16px;
+    font-style: normal;
+    position: absolute;
+    display: flex;
+    left: 29px;
+    text-decoration: none;
+}
+.emergency{
+    color: #DFF6FF;
+    top: 580px;
+    font-weight: 600;
+    font-size: 16px;
+    font-style: normal;
+    position: absolute;
+    display: flex;
+    left: 29px;
+    text-decoration: none;
+    
+}
+.num{
+    font-size: 40px;
+    display: flex;
+    position: relative;
+    top: -20px;
+}
+.GetPaidStock-Logo{
+    top: 450px;
+    position: absolute;
+    display: flex;
+    left: 759px;
+}
+
+
